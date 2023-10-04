@@ -1,6 +1,6 @@
 # subblogs
 
-A new Flutter project.
+this is an API fetching application and in this application i have shown a list of blogs and i can also mark blogs as favorites and this application is also worked in offline mode also.
 
 ## Getting Started
 
